@@ -1,4 +1,3 @@
-
 [FBAN/Orca-Android;FBAV/464.0.0.44.109;FBPN/com.facebook.orca;FBLC/en_US;FBBV/615296917;FBCR/AT&amp;amp-T;FBMF/samsung;FBBD/samsung;FBDV/SM-S901U;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=1080,height=2133};FB_FW/1;]
 [FBAN/Orca-Android;FBAV/452.0.0.50.109;FBPN/com.facebook.orca;FBLC/en_US;FBBV/584563264;FBCR/IT&amp;amp-E;FBMF/samsung;FBBD/samsung;FBDV/SM-A037U1;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1471};FB_FW/1;]
 [FBAN/Orca-Android;FBAV/449.0.0.47.111;FBPN/com.facebook.orca;FBLC/en_US;FBBV/575676944;FBCR/IT&amp;amp-E;FBMF/samsung;FBBD/samsung;FBDV/SM-A217M;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1448};FB_FW/1;]
